@@ -1,0 +1,1 @@
+Formresan v21: mobilnavigation med 7 flikar, egen Mål-flik, viktutveckling på Översikt, kalorier högst upp och modernare mörkgrön design. Bygger på v20. Befintliga lokala data bevaras. Godkända bilder 16–17 är ännu inte integrerade i ZIP.
