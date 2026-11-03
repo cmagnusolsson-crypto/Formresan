@@ -1,0 +1,545 @@
+{
+  "included": [
+    [
+      "ekefall-bok1-01",
+      "Mc’Chicken"
+    ],
+    [
+      "ekefall-bok1-02",
+      "Kebabpizza på libabröd"
+    ],
+    [
+      "ekefall-bok1-05",
+      "Kycklinggratäng"
+    ],
+    [
+      "ekefall-bok1-07",
+      "Potatis i ugn med schnitzel"
+    ],
+    [
+      "ekefall-bok1-08",
+      "Kycklingkebabgryta"
+    ],
+    [
+      "ekefall-bok1-09",
+      "Flygande Jacob"
+    ],
+    [
+      "ekefall-bok1-10",
+      "Tortilla Calzone"
+    ],
+    [
+      "ekefall-bok1-11",
+      "Krämig kyckling med ris"
+    ],
+    [
+      "ekefall-bok1-13",
+      "Kyckling med champinjonsås"
+    ],
+    [
+      "ekefall-bok1-14",
+      "Kebabpasta med ostsås"
+    ],
+    [
+      "ekefall-bok1-16",
+      "Mango Chutney gratäng"
+    ],
+    [
+      "ekefall-bok1-17",
+      "Kyckling med brunsås"
+    ],
+    [
+      "ekefall-bok1-18",
+      "Fajita kyckling"
+    ],
+    [
+      "ekefall-bok1-19",
+      "Kebab-potatissallad"
+    ],
+    [
+      "ekefall-bok1-21",
+      "Lövbiffsrullader"
+    ],
+    [
+      "ekefall-bok1-22",
+      "Falsk fläskfile"
+    ],
+    [
+      "ekefall-bok1-23",
+      "Ostburgare"
+    ],
+    [
+      "ekefall-bok1-25",
+      "Nötfärswok"
+    ],
+    [
+      "ekefall-bok1-26",
+      "Sushikebab"
+    ],
+    [
+      "ekefall-bok1-28",
+      "Köttfärsås med tortellini"
+    ],
+    [
+      "ekefall-bok1-30",
+      "Kebabspett"
+    ],
+    [
+      "ekefall-bok1-31",
+      "Tortillatårta"
+    ],
+    [
+      "ekefall-bok1-32",
+      "Kålpudding i stekpanna"
+    ],
+    [
+      "ekefall-bok1-33",
+      "Ostig Taco"
+    ],
+    [
+      "ekefall-bok1-34",
+      "Lasagne i stekpanna"
+    ],
+    [
+      "ekefall-bok1-35",
+      "Ihoprullad pizza"
+    ],
+    [
+      "ekefall-bok1-41",
+      "Overnight oats med kanel"
+    ],
+    [
+      "ekefall-bok1-42",
+      "Äpplepaj"
+    ],
+    [
+      "ekefall-bok1-43",
+      "Bananpannkakor"
+    ],
+    [
+      "ekefall-bok1-44",
+      "Mc’Toast"
+    ],
+    [
+      "ekefall-bok1-46",
+      "Sandwich"
+    ],
+    [
+      "ekefall-bok1-48",
+      "Äpple med proteinglass"
+    ],
+    [
+      "ekefall-bok2-01",
+      "Allt i ett kyckling"
+    ],
+    [
+      "ekefall-bok2-02",
+      "Potatisgratäng med kebab"
+    ],
+    [
+      "ekefall-bok2-03",
+      "Smashed Caesar Taco"
+    ],
+    [
+      "ekefall-bok2-04",
+      "Max Chicken Parmesan"
+    ],
+    [
+      "ekefall-bok2-06",
+      "Krämig Pasta Alfredo"
+    ],
+    [
+      "ekefall-bok2-07",
+      "Kyckling i baconsås"
+    ],
+    [
+      "ekefall-bok2-08",
+      "Ihoprullad kebab"
+    ],
+    [
+      "ekefall-bok2-09",
+      "Kyckling i ugn"
+    ],
+    [
+      "ekefall-bok2-10",
+      "Pesto-Pasta med kyckling"
+    ],
+    [
+      "ekefall-bok2-11",
+      "Crispy chicken taco"
+    ],
+    [
+      "ekefall-bok2-12",
+      "Kyckling-Burgare"
+    ],
+    [
+      "ekefall-bok2-14",
+      "Potatissallad med kebab"
+    ],
+    [
+      "ekefall-bok2-15",
+      "Pesto-wrap"
+    ],
+    [
+      "ekefall-bok2-17",
+      "Ost & Baconburgare"
+    ],
+    [
+      "ekefall-bok2-18",
+      "Krämig Köttfärsås"
+    ],
+    [
+      "ekefall-bok2-19",
+      "Chevapcici"
+    ],
+    [
+      "ekefall-bok2-20",
+      "20 minuters Ramen"
+    ],
+    [
+      "ekefall-bok2-21",
+      "Köttfärs i Somunbröd"
+    ],
+    [
+      "ekefall-bok2-22",
+      "Chips-Taco"
+    ],
+    [
+      "ekefall-bok2-23",
+      "Korv med makaroner"
+    ],
+    [
+      "ekefall-bok2-24",
+      "Lövbiffsgryta"
+    ],
+    [
+      "ekefall-bok2-27",
+      "Köttbullar & Potatismos"
+    ],
+    [
+      "ekefall-bok2-30",
+      "Fläskfilé med bearnaise"
+    ],
+    [
+      "ekefall-bok2-31",
+      "Riven Falukorv"
+    ],
+    [
+      "ekefall-bok2-37",
+      "Blåbärs & Hallonsmoothie"
+    ],
+    [
+      "ekefall-bok2-39",
+      "Shakshuka"
+    ],
+    [
+      "ekefall-bok2-41",
+      "Mannafrutti"
+    ],
+    [
+      "ekefall-bok2-45",
+      "Våfflad/stekt Banan"
+    ],
+    [
+      "ekefall-bok2-48",
+      "Frysta Vindruvor"
+    ],
+    [
+      "ekefall-bok2-49",
+      "Melon-Snack"
+    ]
+  ],
+  "excluded": [
+    [
+      "bok1",
+      "Kyckling med cashewnötter",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok1",
+      "Sweetchili wrap",
+      [
+        "färsk tomat"
+      ]
+    ],
+    [
+      "bok1",
+      "Kyckling i jordnötssås",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok1",
+      "Pad-Thai",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok1",
+      "Orange Chicken",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok1",
+      "Enkel taco-gratäng",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok1",
+      "Lövbiffsgratäng",
+      [
+        "färsk tomat"
+      ]
+    ],
+    [
+      "bok1",
+      "Smashed-Taco",
+      [
+        "färsk tomat"
+      ]
+    ],
+    [
+      "bok1",
+      "Mormors räkmacka",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok1",
+      "Panerad torsk med dillsås",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok1",
+      "Tunnbröd med tonfiskröra",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok1",
+      "Sushi-tårta/bowl med lax",
+      [
+        "lax som inte är stekt/grillad",
+        "fisk/skaldjur"
+      ]
+    ],
+    [
+      "bok1",
+      "Fiskgratäng med dillsås",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok1",
+      "Italiensk sushi",
+      [
+        "färsk tomat",
+        "lax som inte är stekt/grillad",
+        "fisk/skaldjur"
+      ]
+    ],
+    [
+      "bok1",
+      "Mango & kokosglass",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok1",
+      "Banansmet",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok1",
+      "Proteinbollar",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok2",
+      "Kyckling i röd curry",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok2",
+      "Pizzarullar",
+      [
+        "färsk tomat"
+      ]
+    ],
+    [
+      "bok2",
+      "Crispy-Rice Sallad",
+      [
+        "färsk tomat"
+      ]
+    ],
+    [
+      "bok2",
+      "Kebab i libabröd",
+      [
+        "färsk tomat",
+        "färsk tomat"
+      ]
+    ],
+    [
+      "bok2",
+      "Crispy beef",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok2",
+      "Hemmagjord Gyros",
+      [
+        "färsk tomat"
+      ]
+    ],
+    [
+      "bok2",
+      "Flankstek med risnudlar",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok2",
+      "Gurk-Sushi",
+      [
+        "lax som inte är stekt/grillad",
+        "fisk/skaldjur"
+      ]
+    ],
+    [
+      "bok2",
+      "Ägg & Räkröra",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok2",
+      "Laxröra i bagel",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok2",
+      "Fish & Chips",
+      [
+        "utesluten ingrediens",
+        "fisk/skaldjur"
+      ]
+    ],
+    [
+      "bok2",
+      "Spicy Tuna",
+      [
+        "utesluten ingrediens",
+        "fisk/skaldjur"
+      ]
+    ],
+    [
+      "bok2",
+      "Kyckling med mangoraja",
+      [
+        "färsk tomat"
+      ]
+    ],
+    [
+      "bok2",
+      "Enkel Ugnspankaka",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok2",
+      "Kvargglass",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok2",
+      "Jordgubbs-Snack",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok2",
+      "Banan-Chokladbollar",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok2",
+      "Proteinpudding",
+      [
+        "utesluten ingrediens"
+      ]
+    ],
+    [
+      "bok2",
+      "Tre Kalorisnåla såser",
+      [
+        "ej fullständigt huvudrecept"
+      ]
+    ],
+    [
+      "bok2",
+      "Bonus 1",
+      [
+        "ej fullständigt huvudrecept"
+      ]
+    ],
+    [
+      "bok2",
+      "Bonus 2",
+      [
+        "ej fullständigt huvudrecept"
+      ]
+    ],
+    [
+      "bok2",
+      "Bonus 3",
+      [
+        "utesluten ingrediens",
+        "ej fullständigt huvudrecept"
+      ]
+    ]
+  ],
+  "existing_duplicates": [
+    [
+      "bok1",
+      "Butter chicken"
+    ],
+    [
+      "bok2",
+      "Äpple med kanel & kvarg"
+    ]
+  ]
+}
